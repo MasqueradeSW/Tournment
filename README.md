@@ -2,14 +2,42 @@
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
-- [Really Big Tournament 6 Ruleset](#really-big-tournament-6-ruleset)
+- [Nations Tournament 2022 Ruleset](#nations-tournament-2022-ruleset)
   - [Section 1: Tournament administration](#section-1-tournament-administration)
     - [1.1 Staff](#11-staff)
     - [1.2 Disputes](#12-disputes)
     - [1.3 Sanctions](#13-sanctions)
     - [1.4 Conflicts of interest](#14-conflicts-of-interest)
-    - [1.5 Official communication](#15-official-communication)
+    - [1.5 Official communication](#15-official-communication)  
+    -  - [Section 2: Tournament Format](#section-2-tournament-format)
+    - [2.1 International format](#16-international-format)
+    - [2.2 Swiss section](#17-swiss-section)
+    - [2.3 Playoffs](#18-playoffs)
+    - - [Section 3: Registration process](#section-3-registration-process)
+    - [3.1 Registration](#19-registration)
+    - [3.2 Deadline](#20-deadline)
+    - [3.3 Double registration](#21-double-registration)
+    - [3.4 Other limits](#22-other-limits)
+    - - [Section 4: Servers](#section-4-servers)
+    - [4.1 Home servers](#23-home-servers)
+    -  - [Section 5: Match schedule](#section-5-match-schedule)
+    - [5.1 Rounds and scheduling](#24-rounds-and-scheduling)
+    - [5.2 Scheduling deadline](#25-scheduling-deadline)
+    - [5.3 Reporting results](#26-reporting-results)
+    - [5.4 How to schedule a match](#27-how-to-schedule-a-match)
+    - [5.5 Requests for Oversight](#28-requests-for-oversight)
+    -  - [Section 6: Match Play](#section-6-match-play)
+    - [6.1 Tardiness](#29-tardiness)
+    - [6.2 Demos and screenshots](#30-demos-and-screenshots)
+    - [6.3 Casting](#31-casting)
+    -  - [Section 7: Competitive Integrity](#section-9-competitive-integrity)
+    - [7.1 Penalties](#32-penalties)
+    - [7.2 Stream sniping](#33-stream-sniping)
+    -  - [Section 8: Unsportsmanlike conduct](#section-8-unsportsmanlike-conduct)
+    - [10.1 Insufficient effort to win](#34-insufficient-effort-to-win)
+    
 
+    
 <!-- mdformat-toc end -->
 
 ## Section 1: Tournament administration
