@@ -30,7 +30,7 @@
     - [6.1 Tardiness](#29-tardiness)
     - [6.2 Demos and screenshots](#30-demos-and-screenshots)
     - [6.3 Casting](#31-casting)
-    -  - [Section 7: Competitive Integrity](#section-9-competitive-integrity)
+    -  - [Section 7: Competitive Integrity](#section-7-competitive-integrity)
     - [7.1 Penalties](#32-penalties)
     - [7.2 Stream sniping](#33-stream-sniping)
     -  - [Section 8: Unsportsmanlike conduct](#section-8-unsportsmanlike-conduct)
