@@ -228,8 +228,8 @@ seriousness of concerns about improper behavior that may take place.
 
 ### 6.1 Tardiness
 
-Each players have 30 minutes after the scheduled time to have 4 players in the
-server and readied up. The standard penalty for failure will be a forfeit loss
+Each players have 30 minutes after the scheduled time to be in the
+game and readied up. The standard penalty for failure will be a forfeit loss
 of the match.
 
 
