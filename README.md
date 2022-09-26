@@ -34,7 +34,7 @@
     - [7.1 Penalties](#32-penalties)
     - [7.2 Stream sniping](#33-stream-sniping)
     -  - [Section 8: Unsportsmanlike conduct](#section-8-unsportsmanlike-conduct)
-    - [10.1 Insufficient effort to win](#34-insufficient-effort-to-win)
+    - [8.1 Insufficient effort to win](#34-insufficient-effort-to-win)
     
 
     
