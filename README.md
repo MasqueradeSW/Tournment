@@ -50,7 +50,7 @@ The Tournament Director will be:
 
 The Assistant Tournament Director(s) will be:
 
-- 
+- CRazy
 
 ### 1.2 Disputes
 
