@@ -47,6 +47,7 @@
 The Tournament Director will be:
 
 - Masquerade
+- 零始亟（LingShiJi
 
 The Assistant Tournament Director(s) will be:
 
@@ -83,7 +84,7 @@ This is an International tournament consisting of two sections.
 A match may consist of:
 
 - three games with each opposing players choosing the server for one of the three
-  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away/Neutral"), the 3rd game will be a server where both players have pings that are equal or closer to each other.
+  games, decided by the sum of the scores of both games, (a.k.a. "Home/Away/Neutral"), the 3rd game will be a server where both players have pings that are equal or closer to each other. Home players reserve the right to choose which side they want to be play on, left or right. Neutral will be decided on a coin flip.
   OR
 - three games on a neutral server chosen by mutual agreement during match
   scheduling.
