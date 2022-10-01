@@ -87,7 +87,7 @@ A match may consist of:
   games, decided by the sum of the scores of both games, (a.k.a. "Home/Away/Neutral"), the 3rd game will be a server where both players have pings that are equal or closer to each other. Home players reserve the right to choose which side they want to be play on, left or right. Neutral will be decided on a coin flip.
   OR
 - three games on a neutral server chosen by mutual agreement during match
-  scheduling.
+  scheduling. Each player can only choose their sides in the first two games and switch accordingly. The 3rd game will be decided on a coin flip.
 
 In the event that opposing players cannot agree on a neutral server according to
 these rules, the Home/Away/Neutral system will be used.
