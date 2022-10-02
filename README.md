@@ -162,7 +162,7 @@ messages and etc.
 
 ### 3.2 Deadline
 
-The deadline for registrations is Friday October 14, 2022 11:59 PM UTC-7. After this date,
+The deadline for registrations is Friday October 21, 2022 11:59 PM UTC-7. After this date,
 new entries will not be accepted, and no one will be added to the 
 roster.
 
